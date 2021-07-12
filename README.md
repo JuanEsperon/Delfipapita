@@ -1,5 +1,4 @@
 # Delfipapita
-Artist's WebSite
 ___
 
 ## ___Descripción___
