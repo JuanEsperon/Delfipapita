@@ -1,5 +1,5 @@
 # Delfipapita
-___
+
 
 ## ___Descripción___
 
