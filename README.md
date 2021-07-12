@@ -1,2 +1,2 @@
 # Delfipapita
-Proyecto de market-placepara para una artista.
+Proyecto de market-place para para una artista.
